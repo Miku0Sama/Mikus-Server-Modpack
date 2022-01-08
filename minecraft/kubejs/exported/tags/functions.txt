@@ -1,0 +1,8 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 7, 2022, 1:48:21 PM
+
+#minecraft:tick
+- terralith:tick
+
+#minecraft:load
+- sentimentality3:init
+- terralith:setup
