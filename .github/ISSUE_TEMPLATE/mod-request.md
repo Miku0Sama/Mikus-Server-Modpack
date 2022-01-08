@@ -2,7 +2,7 @@
 name: Mod Request
 about: Suggest a mod to add to the pack
 title: "[MOD REQUEST]"
-labels: ''
+labels: mod request
 assignees: Miku0Sama
 
 ---
