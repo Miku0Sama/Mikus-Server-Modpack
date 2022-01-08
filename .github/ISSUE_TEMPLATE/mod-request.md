@@ -19,3 +19,5 @@ Please link either Curseforge or Modrinth page of the mod. ***DO NOT LINK FILE D
 [Yes/No]
 
 **Why would the mod be a good addition to the pack?**
+
+***Make sure to suggest the mod in #mod-requests in the discord so that others can vote for it!***
