@@ -1,5 +1,5 @@
 # Miku0Sama's Server Modpack
-This modpack used on Miku0Sama's Public Minecraft Server.
+This is the modpack used on Miku0Sama's Public Minecraft Server.
 You can find the latest version in the [Releases](https://github.com/Miku0Sama/Mikus-Server-Modpack/releases) tab.
 If you encounter any issues while using this modpack please submit a [Bug Report](https://github.com/Miku0Sama/Mikus-Server-Modpack/issues/new?assignees=Miku0Sama&labels=bug&template=bug-report.md&title=%5BBUG%5D).
 DO NOT SUBMIT BUG REPORTS TO INDIVIDUAL MOD AUTHORS!!
@@ -23,6 +23,8 @@ If you have any questions or just want to say hi, come join our [Discord](https:
   - Architect's Palette(by Jsburg & Slomaxonical)
   - Architectury (by shedaniel)
   - AttributeFix (by Darkhax)
+  - Awesome Dungeon (by JTorLeon Studio)
+  - Awesome Dungeon Ocean Edition (by JTorLeon Studio)
   - Axolotl item Fix (by ColdLavaLamp)
   - BackSlot (by Globox_Z)
   - BackSlot Addon (by Globox_z)
@@ -45,6 +47,7 @@ If you have any questions or just want to say hi, come join our [Discord](https:
   - Blockus (by Brandcraft06)
   - Blur (by tterrag1098, Pyrofab, Motschen)
   - Bosses of Mass Destruction (by Barribob)
+  - Botania (by Vazkii, williewillus, Hubry)
   - Bountiful (by Ejektaflex)
   - Break Progress (by haykam821)
   - The Bumblezone (by TelepathicGrunt)
@@ -140,6 +143,7 @@ If you have any questions or just want to say hi, come join our [Discord](https:
   - LazyDFU (by tuxed)
   - Lithium (by JellySquid, 2No2Name)
   - Lovely Snails (by LambdAurora)
+  - MC Dungeons Armors (by Chronosacaria, Kluzzio, SeaOfPixels, SattesKrokodil, Patreons)
   - MC Dungeon Artifacts (by Choronosacaria, SeaOfPixels, SattesKrokodil, Patreons)
   - MC Dungeon Weapons (by Choronosacaria, Kluzzio, Kai1907, SeaOfPixels, Patreons)
   - Meet Your Fight (by Lykrast)
